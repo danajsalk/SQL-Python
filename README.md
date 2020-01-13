@@ -11,7 +11,7 @@ A sql to python connection uses
 * query
 
 
-## Temp Tables
+## Creating Temp Tables
 <br>
 If you are using temp tables in your SQL queries, remember to use the phrase "SET NOCOUNT ON". See the example below. 
 
